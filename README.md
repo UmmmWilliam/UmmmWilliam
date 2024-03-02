@@ -6,7 +6,11 @@
 
 ### Programming languages I'm familliar with: 
 -Python
+
 -Css
+
 -HTML
+
 -Scratch
+
 -Small Basics
