@@ -14,3 +14,11 @@
 -Scratch
 
 -Small Basics
+
+
+### Achievements in life:
+-Microsoft Office Specialist in PowerPoint 2019
+
+-5 Years of coding experience
+
+-Featured in one of the "البرلمان العربي للطفل" 's magasines
