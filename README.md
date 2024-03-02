@@ -5,20 +5,20 @@
 
 
 ### Programming languages I'm familliar with: 
--Python
+- Python
 
--Css
+- Css
 
--HTML
+- HTML
 
--Scratch
+- Scratch
 
--Small Basics
+- Small Basics
 
 
 ### Achievements in life:
--Microsoft Office Specialist in PowerPoint 2019
+- Microsoft Office Specialist in PowerPoint 2019
 
--5 Years of coding experience
+- 5 Years of coding experience
 
--Featured in one of the "البرلمان العربي للطفل" 's magasines
+- Featured in one of the "البرلمان العربي للطفل" 's magasines
