@@ -13,8 +13,6 @@
 
 - Scratch
 
-- Small Basics
-
 
 ### Achievements in life:
 - Microsoft Office Specialist in PowerPoint 2019
