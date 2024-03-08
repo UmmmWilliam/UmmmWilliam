@@ -13,6 +13,8 @@
 
 - Scratch
 
+- Javascript *learning*
+
 
 ### Achievements in life:
 - Microsoft Office Specialist in PowerPoint 2019
